@@ -1,0 +1,355 @@
+{
+    "Categories":[{
+        "categories_name":"mobile",
+         "categories_id":"m01",
+         "categories_image":"../../../image/redmi.png",
+
+         
+         "sub_categories":[{
+                        "s_id":"ms01",
+                        "s_name":"redmi",
+                        "s_image1":"../../../image/redmi.png",
+                        "s_price":350,
+                        "s_description":"It is a lhat it has a more-or-less normal distribution",
+                        "colors":["red","blue","black","white"]
+                        
+                        
+         },
+         {
+                       "s_id":"ms02",
+                       "s_name":"samsung",
+                       "s_image1":"../../../image/samsung.jpg",
+                       "s_description":"I psum is that it has a more-or-less normal distribution",
+                       "s_price":350
+         },
+         {
+                       "s_id":"ms03",
+                       "s_name":"nokia",
+                       "s_image1":"../../../image/nokia.jpg",
+                       "s_description":"It The point of or-less normal distribution",
+                       "s_price":350
+         },
+         {
+                       "s_id":"ms04",
+                       "s_name":"oppo",
+                       "s_image1":"../../../image/oppo.jpg",
+                       "s_description":"hpoint of using Lorem Ipsum is thal distribution"
+          },
+          {
+                      "s_id":"ms05",
+                      "s_name":"vivo",
+                      "s_image1":"../../../image/vivo.jpg",
+                      "s_description":"yout. The point s a more-or-less normal distribution"
+}, 
+{
+                    "s_id":"ms06",
+                    "s_name":"moto",
+                    "s_image1":"../../../image/motoral.png",
+                    "s_description":"using Lores a more-or-less normal distribution"
+      },
+      {
+                    "s_id":"ms06",
+                    "s_name":"moto",
+                    "s_image1":"../../../image/motoral.png",
+                    "s_description":"uum is that it has a more-or-less normal distribution"
+            },
+            {
+                   "s_id":"ms06",
+                   "s_name":"moto",
+                   "s_image1":"../../../image/motoral.png",
+                   "s_description":" rt of using  it has a more-or-less normal distribution"
+           },
+         {
+                 "s_id":"ms06",
+                 "s_name":"moto",
+                 "s_image1":"../../../image/motoral.png",
+                 "s_description":"IThe point of using Lo-or-less normal distribution"
+       },
+       {
+                "s_id":"ms06",
+                "s_name":"moto",
+                "s_image1":"../../../image/motoral.png",
+                "s_description":" The point of using Loree-or-less normal distribution"
+         },
+         {
+                "s_id":"ms06",
+                "s_name":"moto",
+                "s_image1":"../../../image/motoral.png",
+                 "s_description":"psum is that it has a more-or-less normal distribution"
+          },
+          {
+               "s_id":"ms06",
+               "s_name":"moto",
+               "s_image1":"../../../image/motoral.png",
+               "s_description":"of us that it has a more-or-less normal distribution"
+}
+        ]
+    },
+
+         {
+            "categories_name":"Furniture",
+            "categories_id":"F01",
+            "categories_image":"../../../image/bed.jpg",
+            
+            "sub_categories":[{
+                           "s_id":"Fs01",
+                           "s_name":"bed_room",
+                           "s_image1":"../../../image/bed.jpg",
+                           "s_des":" established fact that a reader will be distracted by the "
+                           
+            },
+            {
+                          "s_id":"Fs02",
+                          "s_name":"drawing_room",
+                          "s_image1":"../../../image/drawing.jpg",
+                          "s_des":"It is a lhat it has a more-or-less normal distribution"
+            },
+            {
+                        "s_id":"Fs03",
+                        "s_name":"almira",
+                        "s_image1":"../../../image/almira.jpg",
+                        "s_des":"It is a lhat it has a more-or-less normal distribution"
+  },
+  {
+                      "s_id":"Fs04",
+                      "s_name":"table",
+                      "s_image1":"../../../image/study table.jpg",
+                      "s_des":"It is a lhat it has a more-or-less normal distribution"
+},
+{
+                    "s_id":"Fs05",
+                    "s_name":"sofa",
+                    "s_image1":"../../../image/sofa.jpg",
+                    "s_description":"It is a lhat it has a more-or-less normal distribution"
+},
+{
+                   "s_id":"Fs06",
+                   "s_name":"chair",
+                   "s_image1":"../../../image/chair.jpg",
+                "s_description":"It is a lhat it has a more-or-less normal distribution"
+        },
+        {
+                   "s_id":"Fs06",
+                   "s_name":"chair",
+                   "s_image1":"../../../image/chair.jpg",
+                   "s_description":"It is a lhat it has a more-or-less normal distribution"
+       },
+       {
+                   "s_id":"Fs06",
+                   "s_name":"chair",
+                   "s_image1":"../../../image/chair.jpg",
+                   "s_description":"It is a lhat it has a more-or-less normal distribution"
+     },
+     {
+                  "s_id":"Fs06",
+                  "s_name":"chair",
+                  "s_image1":"../../../image/chair.jpg",
+                "s_description":"It is a lhat it has a more-or-less normal distribution"
+           },
+           {
+                   "s_id":"Fs06",
+                   "s_name":"chair",
+                   "s_image1":"../../../image/chair.jpg",
+                   "s_description":"It is a lhat it has a more-or-less normal distribution"
+         },
+         {
+                    "s_id":"Fs06",
+                    "s_name":"chair",
+                    "s_image1":"../../../image/chair.jpg",
+                    "s_description":"It is a lhat it has a more-or-less normal distribution"
+       },
+       {
+                    "s_id":"Fs06",
+                    "s_name":"chair",
+                    "s_image1":"../../../image/chair.jpg",
+                    "s_description":"It is a lhat it has a more-or-less normal distribution"
+       }
+        ]
+    },
+    {
+        "categories_name":"Fasion",
+             "categories_id":"A01",
+             "categories_image":"../../../image/t.jpg",
+             
+             "sub_categories":[{
+                            "s_id":"As01",
+                            "s_name" :"t_shirt",
+                            "s_image1":"../../../image/t.jpg",
+                            "s_description":"It is a lhat it has a more-or-less normal distribution"
+                            
+             },
+             {
+                           "s_id":"As02",
+                           "s_name":"dress",
+                           "s_image1":"../../../image/dress.jpg",
+                           "s_description":"It is a lhat it has a more-or-less normal distribution"
+             },
+             {
+                         "s_id":"As03",
+                         "s_name":"dress",
+                         "s_image1":"../../../image/dress1.jpg",
+                        "s_description":"It is a lhat it has a more-or-less normal distribution"
+                },
+  {
+                      "s_id":"As04",
+                      "s_name":"dress",
+                      "s_image1":"../../../image/dress3.jpg",
+                      "s_description":"It is a lhat it has a more-or-less normal distribution"
+            },
+{
+                      "s_id":"As05",
+                      "s_name":"dress",
+                      "s_image1":"../../../image/dress4.jpg",
+                      "s_description":"It is a lhat it has a more-or-less normal distribution"
+           },
+{
+                     "s_id":"As02",
+                    "s_name":"dress",
+                    "s_image1":"../../../image/dress5.webp",
+                    "s_description":"It is a lhat it has a more-or-less normal distribution"
+               },
+{
+              "s_id":"As06",
+              "s_name":"dress",
+              "s_image1":"../../../image/dress2.webp",
+   
+              "s_description":"It is a lhat it has a more-or-less normal distribution"
+},
+{
+              "s_id":"As07",
+              "s_name":"dress",
+              "s_image1":"../../../image/dress7.jpeg",
+             "s_description":"It is a lhat it has a more-or-less normal distribution"
+},
+{
+            "s_id":"As08",
+            "s_name":"dress",
+            "s_image1":"../../../image/dress8.jpeg",
+           "s_description":"It is a lhat it has a more-or-less normal distribution"
+},
+{
+    "s_id":"As08",
+    "s_name":"dress",
+    "s_image1":"../../../image/dress8.jpeg",
+   "s_description":"It is a lhat it has a more-or-less normal distribution"
+},
+{
+    "s_id":"As08",
+    "s_name":"dress",
+    "s_image1":"../../../image/dress8.jpeg",
+   "s_description":"It is a lhat it has a more-or-less normal distribution"
+},
+{
+    "s_id":"As08",
+    "s_name":"dress",
+    "s_image1":"../../../image/dress8.jpeg",
+   "s_description":"It is a lhat it has a more-or-less normal distribution"
+},
+{
+    "s_id":"As08",
+    "s_name":"dress",
+    "s_image1":"../../../image/dress8.jpeg",
+   "s_description":"It is a lhat it has a more-or-less normal distribution"
+},
+{
+    "s_id":"As08",
+    "s_name":"dress",
+    "s_image1":"../../../image/dress8.jpeg",
+   "s_description":"It is a lhat it has a more-or-less normal distribution"
+},
+{
+    "s_id":"As08",
+    "s_name":"dress",
+    "s_image1":"../../../image/dress8.jpeg",
+   "s_description":"It is a lhat it has a more-or-less normal distribution"
+},
+{
+    "s_id":"As08",
+    "s_name":"dress",
+    "s_image1":"../../../image/dress8.jpeg",
+   "s_description":"It is a lhat it has a more-or-less normal distribution"
+}
+            ]
+        },
+    {
+    "categories_name":"accesories",
+         "categories_id":"q01",
+         "categories_image":"../../../image/lipstic.jpg",
+         
+         "sub_categories":[{
+                        "s_id":"qs01",
+                        "s_name":"lipstick",
+                        "s_image1":"../../../image/lipstic.jpg",
+                        "s_description":"It is a lhat it has a more-or-less normal distribution"
+                        
+         },
+         {
+                       "s_id":"qs02",
+                       "s_name":"eye_liner",
+                       "s_image1":"../../../image/liner.jpg",
+                       "s_des":"It is a lhat it has a more-or-less normal distribution"
+         },
+         {
+                      "s_id":"As03",
+                      "s_name":"mascara",
+                      "s_image1":"../../../image/mascara.jpg",
+                      "s_description":"It is a lhat it has a more-or-less normal distribution"
+           },
+         {
+                       "s_id":"As04",
+                       "s_name":"bangals",
+                       "s_image1":"../../../image/bangals.jpg",
+                       "s_description":"It is a lhat it has a more-or-less normal distribution"
+         },
+         {
+                      "s_id":"As05",
+                      "s_name":"bags",
+                      "s_image1":"../../../image/bags.png",
+                      "s_description":"It is a lhat it has a more-or-less normal distribution"
+},
+{
+                     "s_id":"As06",
+                     "s_name":"hair band",
+                     "s_image1":"../../../image/hairband.jpg",
+                     "s_description":"It is a lhat it has a more-or-less normal distribution"
+},
+{
+                    "s_id":"As07",
+                    "s_name":"chain",
+                    "s_image1":"../../../image/chain.jpg",
+                     "s_description":"It is a lhat it has a more-or-less normal distribution"
+},
+{
+                  "s_id":"As04",
+                  "s_name":"watch",
+                  "s_image1":"../../../image/watch.jpg",
+                  "s_description":"It is a lhat it has a more-or-less normal distribution"
+},
+{
+                "s_id":"As04",
+                "s_name":"bangals",
+                "s_image1":"../../../image/bangals.jpg",
+                "s_description":"It is a lhat it has a more-or-less normal distribution"
+},
+{
+    "s_id":"As04",
+    "s_name":"bangals",
+    "s_image1":"../../../image/bangals.jpg",
+    "s_description":"It is a lhat it has a more-or-less normal distribution"
+},
+{
+    "s_id":"As04",
+    "s_name":"bangals",
+    "s_image1":"../../../image/bangals.jpg",
+    "s_description":"It is a lhat it has a more-or-less normal distribution"
+},
+{
+    "s_id":"As04",
+    "s_name":"bangals",
+    "s_image1":"../../../image/bangals.jpg",
+    "s_description":"It is a lhat it has a more-or-less normal distribution"
+}
+        ]
+    }
+]
+}
